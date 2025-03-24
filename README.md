@@ -5,9 +5,7 @@ Este projeto é uma implementação do jogo Sudoku utilizando Programação Orie
 ## 📌 Funcionalidades
 
 - 🎨 **Interface Gráfica (GUI):** Utiliza a biblioteca Swing para oferecer uma interface amigável e responsiva.
-- 🎲 **Gerador de Puzzles:** Cria novos jogos de Sudoku com diferentes níveis de dificuldade.
 - ✅ **Verificador de Solução:** Valida se a solução inserida pelo jogador está correta.
-- ⏳ **Temporizador:** Acompanha o tempo gasto para resolver o puzzle, permitindo que os jogadores monitorem seu desempenho.
 
 ## 🛠 Tecnologias Utilizadas
 
